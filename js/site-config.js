@@ -21,7 +21,45 @@ const siteConfig = {
     },
 
     modules: {
+brands: {
 
+    mrperk: {
+        title: "MR.PERK",
+        status: "live",
+        visible: true
+    },
+
+    legacy: {
+        title: "Legacy",
+        status: "soon",
+        visible: true
+    },
+
+    grandMotors: {
+        title: "Grand Motors",
+        status: "soon",
+        visible: true
+    },
+
+    sold: {
+        title: "SOLD",
+        status: "soon",
+        visible: true
+    },
+
+    stoneWorld: {
+        title: "Stone World",
+        status: "soon",
+        visible: true
+    },
+
+    smillyViral: {
+        title: "SmillyViral",
+        status: "soon",
+        visible: true
+    }
+
+}
         about: {
             title: "About",
             status: "live",
