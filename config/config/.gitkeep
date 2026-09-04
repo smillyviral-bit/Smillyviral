@@ -1,1 +1,38 @@
+/* ============================================================
+   MR.PERK HEADQUARTERS
+   Ecosystem Configuration
+   ============================================================ */
 
+const ecosystem = {
+
+    headquarters: {
+
+        name: "MR.PERK",
+
+        title: "MR.PERK Headquarters",
+
+        version: "1.0.0",
+
+        status: "development"
+
+    },
+
+    brands: [],
+
+    products: [],
+
+    music: [],
+
+    media: [],
+
+    news: [],
+
+    social: [],
+
+    insights: [],
+
+    seasons: [],
+
+    settings: {}
+
+};
