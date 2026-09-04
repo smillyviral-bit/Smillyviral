@@ -5,10 +5,39 @@
 
 document.addEventListener("DOMContentLoaded", () => {
 
-    console.log("MR.PERK Headquarters initialized.");
-
-    console.log("Site configuration:", siteConfig);
-
-    console.log("Content configuration:", contentConfig);
+    initializeNavigation();
 
 });
+
+
+function initializeNavigation() {
+
+    const navigationTrack =
+        document.getElementById("navigationTrack");
+
+    if (!navigationTrack) {
+        return;
+    }
+
+    Object.entries(siteConfig.modules).forEach(
+        ([key, module]) => {
+
+            if (!isModulePublic(module)) {
+                return;
+            }
+
+            const item =
+                document.createElement("a");
+
+            item.className = "navigation__item";
+
+            item.href = `#${key}`;
+
+            item.textContent = module.title;
+
+            navigationTrack.appendChild(item);
+
+        }
+    );
+
+}
