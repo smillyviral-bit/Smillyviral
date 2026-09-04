@@ -31,7 +31,7 @@ brands: {
 
     legacy: {
         title: "Legacy",
-        status: "soon",
+        status: "live",
         visible: true
     },
 
