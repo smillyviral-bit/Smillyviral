@@ -2,14 +2,15 @@
    MR.PERK HEADQUARTERS
    Application Entry Point
    ============================================================ */
-
 document.addEventListener("DOMContentLoaded", () => {
 
+    Engine.start();
+
     initializeNavigation();
+
     initializeModules();
 
 });
-
 
 function initializeNavigation() {
 
