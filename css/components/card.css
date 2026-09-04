@@ -1,1 +1,99 @@
+/* ============================================================
+   MR.PERK — MODULE CARDS
+   ============================================================ */
 
+.module-card {
+    position: relative;
+
+    min-height: 420px;
+
+    overflow: hidden;
+
+    border: 1px solid rgba(229, 228, 226, 0.16);
+    border-radius: var(--radius-large);
+
+    background: rgba(0, 0, 0, 0.45);
+
+    box-shadow:
+        0 30px 80px rgba(0, 0, 0, 0.45);
+
+    isolation: isolate;
+}
+
+.module-card__media {
+    position: absolute;
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    filter: saturate(0.75);
+
+    transition:
+        transform var(--transition-slow),
+        filter var(--transition-medium);
+}
+
+.module-card:hover .module-card__media {
+    transform: scale(1.035);
+}
+
+.module-card__content {
+    position: absolute;
+    inset: auto 32px 32px;
+
+    z-index: 2;
+}
+
+.module-card__title {
+    color: var(--color-white);
+
+    font-size: clamp(2rem, 5vw, 4rem);
+}
+
+.module-card__description {
+    margin-top: 8px;
+
+    color: rgba(229, 228, 226, 0.72);
+}
+.module-card--soon .module-card__media {
+    filter:
+        blur(7px)
+        brightness(0.45)
+        saturate(0.35);
+    transform: scale(1.06);
+}
+
+.module-card--soon::after {
+    content: "";
+
+    position: absolute;
+    inset: 0;
+
+    z-index: 1;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(0, 0, 0, 0.15),
+            rgba(0, 0, 0, 0.78)
+        );
+}
+
+.module-card__status {
+    display: inline-flex;
+
+    margin-bottom: 12px;
+    padding: 7px 12px;
+
+    border: 1px solid rgba(229, 228, 226, 0.24);
+    border-radius: 999px;
+
+    color: var(--color-platinum);
+
+    font-size: 0.72rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+}
