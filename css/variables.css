@@ -1,0 +1,28 @@
+:root {
+    /* ========================================================
+       MR.PERK — DESIGN TOKENS
+       ======================================================== */
+
+    /* Colors */
+    --color-black: #050505;
+    --color-vantablack: #000000;
+    --color-platinum: #e5e4e2;
+    --color-white: #ffffff;
+
+    /* Typography */
+    --font-primary: Arial, Helvetica, sans-serif;
+
+    /* Layout */
+    --content-width: 1400px;
+    --page-padding: 24px;
+
+    /* Radius */
+    --radius-small: 12px;
+    --radius-medium: 20px;
+    --radius-large: 32px;
+
+    /* Motion */
+    --transition-fast: 180ms ease;
+    --transition-medium: 400ms ease;
+    --transition-slow: 800ms ease;
+}
