@@ -1,1 +1,325 @@
+MR.PERK HEADQUARTERS
+PROPRIETARY SOFTWARE AND CONTENT LICENSE
+VERSION 1.0
 
+Effective Date: 4 September 2026
+
+Copyright © 2026 Eugenio Labán Nve Nguema Ayingono.
+All Rights Reserved.
+
+
+1. OWNERSHIP
+
+MR.PERK Headquarters ("Portal") is a proprietary digital project
+created and/or controlled by Eugenio Labán Nve Nguema Ayingono
+("Rights Holder").
+
+Except for third-party materials expressly identified as belonging
+to their respective owners, all original elements of the Portal are
+protected by applicable intellectual property laws.
+
+This includes, where applicable:
+
+- source code;
+- software architecture;
+- system architecture;
+- UI/UX design;
+- visual design;
+- layouts;
+- original text;
+- original graphics;
+- animations;
+- original images;
+- original video;
+- original audio;
+- logos and visual identities;
+- original icons;
+- components;
+- configurations;
+- documentation;
+- content organization and presentation;
+- databases and original database structures;
+- original data and content;
+- and other original materials forming part of the Portal.
+
+
+2. PROPRIETARY NATURE
+
+The Portal is proprietary software and content.
+
+Nothing in this License grants the public an open-source license,
+copyleft license, permissive software license, or any equivalent
+right to use, modify, distribute, sublicense, reproduce, or create
+derivative works from the proprietary portions of the Portal.
+
+Publication of the Portal through a public repository or website
+does not constitute a waiver of intellectual property rights.
+
+
+3. LIMITED VISITOR LICENSE
+
+Subject to compliance with this License and applicable law, visitors
+are granted a limited, non-exclusive, non-transferable,
+non-sublicensable and revocable permission to:
+
+a) access and view the publicly available Portal;
+
+b) interact with its publicly available functionality;
+
+c) share links directing other persons to the Portal;
+
+d) download materials that the Portal expressly makes available
+   for download, subject to any additional terms applicable to
+   those materials.
+
+
+4. PROHIBITED USES
+
+Without prior written authorization from the Rights Holder, no person
+may:
+
+a) copy, reproduce, or redistribute proprietary source code;
+
+b) copy or substantially reproduce the Portal's design or UI/UX;
+
+c) reproduce proprietary layouts, architecture, components, or
+   distinctive visual systems;
+
+d) modify or create derivative works from proprietary Portal
+   materials;
+
+e) reproduce, extract, republish, or redistribute proprietary
+   images, graphics, videos, animations, logos, icons, or other
+   protected media;
+
+f) use proprietary materials for commercial purposes;
+
+g) sell, license, sublicense, lease, or otherwise commercially
+   exploit proprietary Portal materials;
+
+h) incorporate proprietary Portal materials into another website,
+   application, product, service, or platform;
+
+i) create a substantially similar or derivative website, application,
+   interface, or digital product based on the proprietary portions
+   of the Portal;
+
+j) remove copyright notices, proprietary notices, attribution
+   requirements, or other rights-management information;
+
+k) reverse engineer, decompile, disassemble, or attempt to derive
+   source code from compiled or otherwise protected software,
+   except to the limited extent such restriction is prohibited by
+   mandatory applicable law;
+
+l) scrape, systematically extract, or reproduce substantial portions
+   of proprietary Portal content or structure;
+
+m) redistribute downloaded materials except where expressly
+   authorized by the Rights Holder.
+
+
+5. BRANDS AND TRADEMARKS
+
+Names, logos, trademarks, service marks, trade names, brand
+identities, slogans, and other distinctive signs appearing within
+the Portal may be owned by the Rights Holder or by third parties.
+
+Nothing in this License grants any trademark license.
+
+The following names may identify projects, brands, or future ventures
+associated with the Portal, without this list itself constituting a
+trademark registration:
+
+- MR.PERK
+- Legacy
+- Grand Motors
+- SOLD
+- Stone World
+- SmillyViral
+
+Third-party trademarks remain the property of their respective
+owners.
+
+
+6. THIRD-PARTY MATERIALS
+
+The Portal may contain or reference third-party software, fonts,
+libraries, images, videos, music, trademarks, services, APIs,
+platforms, stores, social networks, or other materials.
+
+Such materials are NOT automatically covered by this License.
+
+Third-party materials remain subject to their respective licenses,
+terms of service, copyright notices, and other applicable
+conditions.
+
+Where required, applicable third-party licenses or notices may be
+provided separately within the repository.
+
+
+7. EXTERNAL LINKS AND SERVICES
+
+The Portal may contain links to external websites, stores,
+e-commerce platforms, social networks, streaming services,
+applications, APIs, or other third-party services.
+
+Such services are operated independently and may be governed by
+their own terms, privacy policies, licenses, and conditions.
+
+This License does not grant rights to third-party services or
+content.
+
+
+8. DOWNLOADABLE MATERIALS
+
+Certain materials may be expressly offered for download.
+
+A downloadable file does not automatically become open-source,
+public-domain, or freely reusable merely because it can be
+downloaded.
+
+Any additional usage conditions displayed with or accompanying a
+downloadable material shall apply to that material.
+
+
+9. USER-GENERATED CONTENT
+
+If the Portal permits users to submit comments, messages, media,
+profiles, reviews, or other content, ownership of such content
+remains with the applicable user or rights holder unless otherwise
+agreed.
+
+Users are responsible for ensuring that content they submit does not
+infringe third-party rights.
+
+Nothing in this License transfers ownership of user-generated
+content to the Rights Holder unless a separate agreement expressly
+provides otherwise.
+
+
+10. CONFIGURATION AND MODULAR CONTENT
+
+The Portal may use configuration files and modular systems to control
+the visibility, presentation, status, or content of individual
+sections.
+
+Such configuration mechanisms do not grant users permission to copy,
+modify, redistribute, or commercially exploit the underlying
+proprietary architecture or implementation.
+
+
+11. PUBLIC AVAILABILITY
+
+Making any portion of the Portal publicly accessible does not mean
+that the underlying source code, architecture, design, media, or
+other proprietary materials are released under an open-source or
+public license.
+
+Public visibility and intellectual property licensing are separate
+matters.
+
+
+12. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this License are reserved by the
+Rights Holder.
+
+No implied license is granted by:
+
+- publication;
+- public access;
+- viewing;
+- linking;
+- downloading;
+- repository visibility;
+- or any other use not expressly authorized by this License.
+
+
+13. TERMINATION
+
+Any permission granted under this License automatically terminates
+upon material violation of its terms.
+
+Upon termination, the affected user must cease the unauthorized use
+and, where legally required, remove or destroy unauthorized copies
+of proprietary materials under their control.
+
+
+14. NO WARRANTY
+
+The Portal is provided on an "as available" basis.
+
+To the maximum extent permitted by applicable law, the Rights Holder
+makes no warranties concerning uninterrupted availability,
+error-free operation, accuracy, completeness, or suitability for a
+particular purpose.
+
+Nothing in this clause excludes rights or remedies that cannot
+legally be excluded.
+
+
+15. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Rights Holder
+shall not be liable for indirect, incidental, consequential,
+special, or exemplary damages arising from use of the Portal.
+
+Nothing in this License limits liability where such limitation is
+prohibited by mandatory applicable law.
+
+
+16. GOVERNING LAW AND JURISDICTION
+
+The governing law and competent jurisdiction for this License shall
+be designated by the Rights Holder in accordance with the applicable
+legal structure of the project.
+
+Until such designation is formally established, no specific
+jurisdiction is asserted by this License.
+
+
+17. MODIFICATIONS TO THIS LICENSE
+
+Future versions of this License may be published by the Rights
+Holder.
+
+Unless expressly stated otherwise, a new version shall apply to
+future releases or versions of the Portal and shall not retroactively
+alter rights that were expressly granted under a previous version.
+
+
+18. CONTACT AND RIGHTS REQUESTS
+
+Requests for authorization to use proprietary materials, licensing
+requests, permissions, copyright matters, trademark matters, or
+other intellectual property inquiries should be directed to the
+official contact channel designated by the Rights Holder.
+
+
+19. SEVERABILITY
+
+If any provision of this License is determined to be invalid,
+unlawful, or unenforceable, the remaining provisions shall remain in
+effect to the maximum extent permitted by applicable law.
+
+
+20. ENTIRE LICENSE
+
+This document constitutes the proprietary license governing the
+public use of the proprietary portions of MR.PERK Headquarters,
+subject to applicable law and any separate written agreements.
+
+No provision of this License shall be interpreted as granting rights
+beyond those expressly stated herein.
+
+
+------------------------------------------------------------
+MR.PERK HEADQUARTERS
+Proprietary Project
+Version 1.0
+Effective Date: 4 September 2026
+
+Copyright © 2026 Eugenio Labán Nve Nguema Ayingono.
+All Rights Reserved.
+------------------------------------------------------------
